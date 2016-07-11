@@ -1,0 +1,14 @@
+layout_spectrum: 0.6854287355672568
+typography_spectrum: 0.3255326875951141
+color:
+  brandStrength: 0.512613759143278
+  lightness: 0.335350924404338
+  saturation: 0.36463609687052667
+  rhythmicContrast: 0.26340992795303464
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Moving Portraits
